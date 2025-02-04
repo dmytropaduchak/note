@@ -6,6 +6,8 @@ readme = "README.md"
 edition = "2021"
 keywords = ["cli", "note", "notion", "security", "encryption"]
 categories = ["command-line-utilities"]
+homepage = "https://github.com/dmytropaduchak/note"
+repository = "https://github.com/dmytropaduchak/note"
 
 [dependencies]
 clap = { version = "4.5.28", features = ["derive"] }
